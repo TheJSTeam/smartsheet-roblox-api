@@ -5,7 +5,8 @@ An unofficial API to connect Smartsheet to Roblox.
 **PLEASE NOTE, ALL RELEASES ARE CURRENTLY IN BETA.
 WE DO NOT RECOMMEND USING THIS IN A PRODUCTION ENVIRONMENT.**
 
-# Set Up Instructions (also avaliable in the Wiki (https://github.com/TheJSTeam/smartsheet-roblox-api/wiki))
+# Set Up Instructions
+ (also avaliable in the Wiki (https://github.com/TheJSTeam/smartsheet-roblox-api/wiki))
 
 1. Download the ZIP.
 2. Import the .rbxm file into the latest version of Roblox Studio.
